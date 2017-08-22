@@ -1,0 +1,21 @@
+.container{
+    background-color:beige;
+  }
+h1{
+    color:brown;
+}
+.logo{
+    background: url("../img/cognizant.png") no-repeat;
+    width: 129px;
+    height: 120px;
+    float: left;
+}
+
+.name{
+   float: left;
+    }
+
+h1, h3{
+   margin: 20px; 
+}
+
